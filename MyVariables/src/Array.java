@@ -7,7 +7,9 @@ public class Array {
 		int[] myintarray = {90,56,78};
 		//int[] myIntArray = new int[]{90,56,78};
 
-	System.out.println(myintarray[2]);
+	
+	System.out.println(myintarray[1]);
+	
 	}
 
 }
